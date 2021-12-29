@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e3805c63f411eb47",
+    "type": "split",
+    "children": [
+      {
+        "id": "5765e56061ff7a5f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C Sharp Tutorial.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88ef26ae607a381c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fec9e2bdaff7a932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f158a05f078d66e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c56806622462267",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "988bc38d3c75f754",
+    "type": "split",
+    "children": [
+      {
+        "id": "70419b8cebea3c2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5481a4fc4dacf33b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C Sharp Tutorial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5765e56061ff7a5f",
+  "lastOpenFiles": [
+    "C Sharp Tutorial.md",
+    "Math Problems.md",
+    "Windows Form.md",
+    "Sorting, Complexity.md",
+    "OOP and Programming Basics.md",
+    "_index.md",
+    "Images/argument request.jpeg",
+    "Images/java-oops.png",
+    "Images/w3 menu.png",
+    "OOP Basics.md"
+  ]
+}
