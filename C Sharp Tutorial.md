@@ -2,28 +2,52 @@
  ## w3 school's [C# Tutorial](https://www.w3schools.com/cs/index.php)
 
 
-## Using & Main 
+## Using 
+serve ad importare altri namespace, in questo caso per utilizzare tutti gli elementi presenti in System
 ``` csharp
+	using System; 
+```
 
-	using System; // a cosa serve?
-	
-	namespace HelloWorld // a cosa serve?
+## Namespace 
+
+``` csharp
+	namespace HelloWorld 
 	{
-	
+		// other stuff...
 	}
-
 ```
 
-## Methods and Objects
+## While
+``` csharp
+
+- ```
+
+## For
 ``` csharp
 
 ```
 
+## Arrays
+``` csharp
 
-## NEXT INLINE
-- create a visual studio project
-- method parameters
-- method overloading
-- how vector works
-- how recoursion works, what is 
-- excercises combineing while, for, if, switch and OOP structure
+```
+
+## Methods
+``` csharp
+
+```
+
+## Classes
+``` csharp
+
+```
+
+## Objects
+``` csharp
+
+```
+
+## Access Modifier
+``` csharp
+
+```
