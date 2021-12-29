@@ -9,7 +9,7 @@ serve ad importare altri namespace, in questo caso per utilizzare tutti gli elem
 ```
 
 ## Namespace 
-
+Il namespace è un separatore di codice che organizza e suddivide le classi sotto un unico nome con cui si accede tramite lo using. 
 ``` csharp
 	namespace HelloWorld 
 	{
